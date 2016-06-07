@@ -1,2 +1,5 @@
-# Projekt
-shared memory
+# Projekt IPC
+SOiA Projekt:
++readme
++makefile
+
