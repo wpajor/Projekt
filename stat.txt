@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./send
+ipcs | grep 5000
+./recive
